@@ -13,5 +13,5 @@ gamma: 0.1
 display: 1000
 max_iter: 40000
 snapshot: 1000
-snapshot_prefix: "examples/mvsir/MVS_Models/MVS_IR_016_MVSIR"
+snapshot_prefix: "examples/code/MVS_Models/MVS_IR_016_MVSIR"
 solver_mode: GPU
